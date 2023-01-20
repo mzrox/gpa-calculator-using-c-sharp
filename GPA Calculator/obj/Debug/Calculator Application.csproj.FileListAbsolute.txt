@@ -1,0 +1,77 @@
+D:\New folder (2)\C#\Calculator Application\bin\Debug\Calculator Application.exe.config
+D:\New folder (2)\C#\Calculator Application\bin\Debug\Calculator Application.exe
+D:\New folder (2)\C#\Calculator Application\bin\Debug\Calculator Application.pdb
+D:\New folder (2)\C#\Calculator Application\obj\Debug\Calculator Application.csproj.AssemblyReference.cache
+D:\New folder (2)\C#\Calculator Application\obj\Debug\Calculator Application.csproj.SuggestedBindingRedirects.cache
+D:\New folder (2)\C#\Calculator Application\obj\Debug\Calculator_Application.Form1.resources
+D:\New folder (2)\C#\Calculator Application\obj\Debug\Calculator_Application.Properties.Resources.resources
+D:\New folder (2)\C#\Calculator Application\obj\Debug\Calculator Application.csproj.GenerateResource.cache
+D:\New folder (2)\C#\Calculator Application\obj\Debug\Calculator Application.csproj.CoreCompileInputs.cache
+D:\New folder (2)\C#\Calculator Application\obj\Debug\Calculator Application.exe
+D:\New folder (2)\C#\Calculator Application\obj\Debug\Calculator Application.pdb
+E:\STUDY RIPH\OOP\Assigment\C#\Calculator Application\bin\Debug\Calculator Application.exe.config
+E:\STUDY RIPH\OOP\Assigment\C#\Calculator Application\bin\Debug\Calculator Application.exe
+E:\STUDY RIPH\OOP\Assigment\C#\Calculator Application\bin\Debug\Calculator Application.pdb
+E:\STUDY RIPH\OOP\Assigment\C#\Calculator Application\obj\Debug\Calculator Application.csproj.AssemblyReference.cache
+E:\STUDY RIPH\OOP\Assigment\C#\Calculator Application\obj\Debug\Calculator Application.csproj.SuggestedBindingRedirects.cache
+E:\STUDY RIPH\OOP\Assigment\C#\Calculator Application\obj\Debug\Calculator_Application.Form1.resources
+E:\STUDY RIPH\OOP\Assigment\C#\Calculator Application\obj\Debug\Calculator_Application.Properties.Resources.resources
+E:\STUDY RIPH\OOP\Assigment\C#\Calculator Application\obj\Debug\Calculator Application.csproj.GenerateResource.cache
+E:\STUDY RIPH\OOP\Assigment\C#\Calculator Application\obj\Debug\Calculator Application.csproj.CoreCompileInputs.cache
+E:\STUDY RIPH\OOP\Assigment\C#\Calculator Application\obj\Debug\Calculator Application.exe
+E:\STUDY RIPH\OOP\Assigment\C#\Calculator Application\obj\Debug\Calculator Application.pdb
+D:\STUDY RIPH\OOP\Assigment\C#\Calculator Application\bin\Debug\Calculator Application.exe.config
+D:\STUDY RIPH\OOP\Assigment\C#\Calculator Application\bin\Debug\Calculator Application.exe
+D:\STUDY RIPH\OOP\Assigment\C#\Calculator Application\bin\Debug\Calculator Application.pdb
+D:\STUDY RIPH\OOP\Assigment\C#\Calculator Application\obj\Debug\Calculator Application.csproj.AssemblyReference.cache
+D:\STUDY RIPH\OOP\Assigment\C#\Calculator Application\obj\Debug\Calculator Application.csproj.SuggestedBindingRedirects.cache
+D:\STUDY RIPH\OOP\Assigment\C#\Calculator Application\obj\Debug\Calculator_Application.Form1.resources
+D:\STUDY RIPH\OOP\Assigment\C#\Calculator Application\obj\Debug\Calculator_Application.Properties.Resources.resources
+D:\STUDY RIPH\OOP\Assigment\C#\Calculator Application\obj\Debug\Calculator Application.csproj.GenerateResource.cache
+D:\STUDY RIPH\OOP\Assigment\C#\Calculator Application\obj\Debug\Calculator Application.csproj.CoreCompileInputs.cache
+D:\STUDY RIPH\OOP\Assigment\C#\Calculator Application\obj\Debug\Calculator Application.exe
+D:\STUDY RIPH\OOP\Assigment\C#\Calculator Application\obj\Debug\Calculator Application.pdb
+C:\Users\MUZ\Desktop\C#\Calculator Application\bin\Debug\Calculator Application.exe.config
+C:\Users\MUZ\Desktop\C#\Calculator Application\bin\Debug\Calculator Application.exe
+C:\Users\MUZ\Desktop\C#\Calculator Application\bin\Debug\Calculator Application.pdb
+C:\Users\MUZ\Desktop\C#\Calculator Application\obj\Debug\Calculator Application.csproj.AssemblyReference.cache
+C:\Users\MUZ\Desktop\C#\Calculator Application\obj\Debug\Calculator Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\MUZ\Desktop\C#\Calculator Application\obj\Debug\Calculator_Application.Form1.resources
+C:\Users\MUZ\Desktop\C#\Calculator Application\obj\Debug\Calculator_Application.Properties.Resources.resources
+C:\Users\MUZ\Desktop\C#\Calculator Application\obj\Debug\Calculator Application.csproj.GenerateResource.cache
+C:\Users\MUZ\Desktop\C#\Calculator Application\obj\Debug\Calculator Application.csproj.CoreCompileInputs.cache
+C:\Users\MUZ\Desktop\C#\Calculator Application\obj\Debug\Calculator Application.exe
+C:\Users\MUZ\Desktop\C#\Calculator Application\obj\Debug\Calculator Application.pdb
+D:\C#\Calculator Application\bin\Debug\Calculator Application.exe.config
+D:\C#\Calculator Application\bin\Debug\Calculator Application.exe
+D:\C#\Calculator Application\bin\Debug\Calculator Application.pdb
+D:\C#\Calculator Application\obj\Debug\Calculator Application.csproj.AssemblyReference.cache
+D:\C#\Calculator Application\obj\Debug\Calculator Application.csproj.SuggestedBindingRedirects.cache
+D:\C#\Calculator Application\obj\Debug\Calculator_Application.Form1.resources
+D:\C#\Calculator Application\obj\Debug\Calculator_Application.Properties.Resources.resources
+D:\C#\Calculator Application\obj\Debug\Calculator Application.csproj.GenerateResource.cache
+D:\C#\Calculator Application\obj\Debug\Calculator Application.csproj.CoreCompileInputs.cache
+D:\C#\Calculator Application\obj\Debug\Calculator Application.exe
+D:\C#\Calculator Application\obj\Debug\Calculator Application.pdb
+D:\C# 2\Calculator Application\obj\Debug\Calculator Application.csproj.AssemblyReference.cache
+D:\C# 2\Calculator Application\obj\Debug\Calculator Application.csproj.SuggestedBindingRedirects.cache
+D:\C# 2\Calculator Application\obj\Debug\Calculator_Application.Form1.resources
+D:\C# 2\Calculator Application\obj\Debug\Calculator_Application.Properties.Resources.resources
+D:\C# 2\Calculator Application\obj\Debug\Calculator Application.csproj.GenerateResource.cache
+D:\C# 2\Calculator Application\obj\Debug\Calculator Application.csproj.CoreCompileInputs.cache
+D:\C# 2\Calculator Application\obj\Debug\Calculator Application.exe
+D:\C# 2\Calculator Application\obj\Debug\Calculator Application.pdb
+D:\C# 2\Calculator Application\bin\Debug\Calculator Application.exe.config
+D:\C# 2\Calculator Application\bin\Debug\Calculator Application.exe
+D:\C# 2\Calculator Application\bin\Debug\Calculator Application.pdb
+D:\C# 2\GPA Calculator\bin\Debug\Calculator Application.exe.config
+D:\C# 2\GPA Calculator\bin\Debug\Calculator Application.exe
+D:\C# 2\GPA Calculator\bin\Debug\Calculator Application.pdb
+D:\C# 2\GPA Calculator\obj\Debug\Calculator Application.csproj.AssemblyReference.cache
+D:\C# 2\GPA Calculator\obj\Debug\Calculator Application.csproj.SuggestedBindingRedirects.cache
+D:\C# 2\GPA Calculator\obj\Debug\Calculator_Application.Form1.resources
+D:\C# 2\GPA Calculator\obj\Debug\Calculator_Application.Properties.Resources.resources
+D:\C# 2\GPA Calculator\obj\Debug\Calculator Application.csproj.GenerateResource.cache
+D:\C# 2\GPA Calculator\obj\Debug\Calculator Application.csproj.CoreCompileInputs.cache
+D:\C# 2\GPA Calculator\obj\Debug\Calculator Application.exe
+D:\C# 2\GPA Calculator\obj\Debug\Calculator Application.pdb
